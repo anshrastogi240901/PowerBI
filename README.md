@@ -45,12 +45,12 @@ Explore the interactive dashboard and filters.
 📸 Dashboard Screenshots
 
 Restaurant Trends Dashboard
-
+(https://github.com/anshrastogi240901/PowerBI/blob/main/screenshots/Screenshot%202025-02-14%20175511.png)
 
 
 Restaurants by Country
 
-
+(screenshots/Screenshot 2025-02-14 175524.png)
 
 Availability Across Cities
-
+(screenshots/Screenshot 2025-02-14 175532.png)
