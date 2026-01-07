@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project focuses on building an **end-to-end HR Analytics dashboard** using **Power BI** to analyze employee attrition, performance, and the financial impact of workforce churn. The dashboard is designed for **HR leaders and business managers** to support data-driven decision-making.
 
----
 
 ## 🎯 Objectives
 - Understand **what drives employee attrition**
@@ -11,7 +10,6 @@ This project focuses on building an **end-to-end HR Analytics dashboard** using 
 - Quantify the **cost impact of attrition**
 - Provide **actionable insights** for retention strategies
 
----
 
 ## 📊 Key Dashboards & Analysis
 
@@ -28,8 +26,6 @@ This project focuses on building an **end-to-end HR Analytics dashboard** using 
 **Business Question Answered:**  
 *Where is attrition concentrated and which segments need immediate attention?*
 
----
-
 ### 2. Performance vs Retention (2×2 Matrix)
 Employees are classified into a **2×2 matrix** using performance score and attrition status:
 
@@ -42,7 +38,6 @@ Employees are classified into a **2×2 matrix** using performance score and attr
 - Identifies **high performers who are leaving**
 - Helps prioritize **retention investments**
 
----
 
 ### 3. Cost of Attrition Analysis
 **Assumptions used:**
